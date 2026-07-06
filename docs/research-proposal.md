@@ -4,22 +4,49 @@
 
 Towards Secure LLM-Assisted Full Stack Software Development: Security Challenges, Risk Analysis, and an AI Secure Software Development Lifecycle Framework
 
-## Research Question
+---
 
-How can organizations securely adopt LLM-assisted full stack software development while reducing security risks introduced by AI-generated code?
+## Background
+
+The rapid adoption of Large Language Models (LLMs) such as ChatGPT, GitHub Copilot, Claude Code, Cursor, and Gemini Code Assist has transformed modern software engineering.
+
+Developers increasingly rely on AI systems to generate code, design architectures, create documentation, and automate testing. While these systems improve productivity, they also introduce new categories of software security risks that traditional Secure SDLC methodologies do not explicitly address.
+
+---
 
 ## Problem Statement
 
-LLM coding assistants can improve developer productivity, but research shows that AI-generated code can introduce vulnerabilities, hallucinated APIs, insecure dependencies, and weak security practices. Existing Secure SDLC models do not fully address risks specific to AI-assisted coding.
+Existing Secure Software Development Lifecycle frameworks were developed before AI-assisted software development became mainstream.
+
+They do not adequately address emerging risks including:
+
+- AI hallucinations
+- Prompt injection
+- Secret leakage
+- Dependency confusion
+- Supply chain attacks
+- AI-generated vulnerabilities
+- Over-reliance on AI
+
+---
+
+## Research Question
+
+How can organizations securely adopt LLM-assisted Full Stack Software Development while minimizing security risks?
+
+---
 
 ## Objectives
 
-- Identify risks in LLM-assisted software development.
-- Study existing Secure SDLC and DevSecOps practices.
-- Analyze security weaknesses in AI-generated code.
-- Propose an AI Secure SDLC framework.
-- Validate the framework using a case study.
+- Review current AI coding assistants.
+- Study security vulnerabilities introduced by AI.
+- Analyze Secure SDLC models.
+- Identify research gaps.
+- Design a secure AI-assisted development lifecycle.
+- Evaluate the proposed framework.
+
+---
 
 ## Expected Contribution
 
-A practical security framework for LLM-assisted full stack development that combines AI usage controls, secure coding practices, dependency verification, static analysis, secret detection, human review, and continuous monitoring.
+This research proposes an AI-aware Secure Software Development Lifecycle (AI Secure SDLC) that integrates secure AI usage practices into modern software engineering workflows.
