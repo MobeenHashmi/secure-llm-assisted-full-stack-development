@@ -1,52 +1,27 @@
 # Secure LLM-Assisted Full Stack Development
 
-## Research Repository
+Research repository for the paper:
 
-This repository contains the complete research project for the proposed IEEE paper:
+**Towards Secure LLM-Assisted Full Stack Software Development: Security Challenges, Risk Analysis, and an AI Secure Software Development Lifecycle Framework**
 
-> **Towards Secure LLM-Assisted Full Stack Software Development: Security Challenges, Risk Analysis, and an AI Secure Software Development Lifecycle (AI-SDLC) Framework**
+## Goal
 
----
+To study security risks in LLM-assisted software development and design a practical AI Secure SDLC framework.
+
+## Research Areas
+
+- Large Language Models
+- AI-Assisted Software Development
+- Software Engineering
+- Full Stack Development
+- DevSecOps
+- Cybersecurity
+- Secure SDLC
+- AI-Generated Code Security
 
 ## Status
 
-🚧 Research Phase
-
----
-
-## Objectives
-
-- Investigate security risks in AI-assisted software development
-- Study LLM-assisted software engineering
-- Design a novel AI Secure SDLC framework
-- Validate the framework using a case study
-- Publish the research through IEEE
-
----
-
-## Repository Structure
-
-```
-docs/
-references/
-figures/
-diagrams/
-papers/
-notes/
-```
-
----
-
-## Timeline
-
-- Literature Review
-- Research Gap
-- Framework Design
-- Case Study
-- IEEE Paper
-- Submission
-
----
+Research Phase
 
 ## Author
 
